@@ -5,6 +5,8 @@
 
 > A grunt plugin that uses scss-to-json and writes the JSON to the file system.
 
+**FORK NOTE: This fork upgrades `scss-to-json` so downstream packages can use node-sass >= 4.0.**
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
